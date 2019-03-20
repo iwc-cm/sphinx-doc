@@ -26,6 +26,7 @@ Welcome to sphinx文档's documentation!
     :numbered:
     :hidden:
 
+    simple/short
     simple/intro
     simple/base
     simple/complex
